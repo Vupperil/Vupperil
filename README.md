@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vupperil
 - 👀 I’m interested in being a front-end developer
-- 🌱 I’m currently try learing HTML, CSS, and Javascript
+- 🌱 I’m currently trying learn HTML, CSS, and Javascript
 
 
 <!---
